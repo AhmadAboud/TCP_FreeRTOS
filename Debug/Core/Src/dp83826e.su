@@ -1,0 +1,17 @@
+../Core/Src/dp83826e.c:53:10:DP83826E_RegisterBusIO	16	static
+../Core/Src/dp83826e.c:71:9:DP83826E_FindFirstPHY	32	static
+../Core/Src/dp83826e.c:105:9:DP83826E_SoftwareReset	32	static
+../Core/Src/dp83826e.c:144:9:DP83826E_Configure	24	static
+../Core/Src/dp83826e.c:174:10:DP83826E_Init	24	static
+../Core/Src/dp83826e.c:216:9:DP83826E_DeInit	16	static
+../Core/Src/dp83826e.c:241:9:DP83826E_DisablePowerDownMode	24	static
+../Core/Src/dp83826e.c:271:9:DP83826E_EnablePowerDownMode	24	static
+../Core/Src/dp83826e.c:301:9:DP83826E_StartAutoNego	24	static
+../Core/Src/dp83826e.c:337:9:DP83826E_GetLinkState	24	static
+../Core/Src/dp83826e.c:434:9:DP83826E_SetLinkState	24	static
+../Core/Src/dp83826e.c:486:9:DP83826E_EnableLoopbackMode	24	static
+../Core/Src/dp83826e.c:516:9:DP83826E_DisableLoopbackMode	24	static
+../Core/Src/dp83826e.c:556:9:DP83826E_EnableIT	24	static
+../Core/Src/dp83826e.c:596:9:DP83826E_DisableIT	24	static
+../Core/Src/dp83826e.c:635:10:DP83826E_ClearIT	24	static
+../Core/Src/dp83826e.c:665:9:DP83826E_GetITStatus	24	static
